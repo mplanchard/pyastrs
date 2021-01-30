@@ -1,3 +1,6 @@
+mod lex;
+mod syntax;
+
 #[cfg(test)]
 mod tests {
     #[test]
